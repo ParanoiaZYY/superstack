@@ -48,10 +48,11 @@ dist
 .idea/modules.xml
 .idea/superstack.iml
 .idea/vcs.xml
-bin/
-commands/
+tools/superstack-cli/bin/
+tools/superstack-cli/command/
 init.js
 package-lock.json
 package.json
 superstack-cli
 templates.json
+.DS_Store

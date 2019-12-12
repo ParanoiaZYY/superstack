@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1576134881718,
+    "end": 1576134883731,
+    "duration": 2013,
+    "pid": 11780,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1576134881721,
+    "end": 1576134883428,
+    "duration": 1707,
+    "pid": 11780,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1576134883428,
+    "end": 1576134883481,
+    "duration": 53,
+    "pid": 11780,
+    "index": 2
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1576134883428,
+    "end": 1576134883455,
+    "duration": 27,
+    "pid": 11780,
+    "index": 3
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1576134883456,
+    "end": 1576134883461,
+    "duration": 5,
+    "pid": 11780,
+    "index": 4
+  },
+  {
+    "name": "Require(2) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-session/config/config.default.js",
+    "start": 1576134883461,
+    "end": 1576134883462,
+    "duration": 1,
+    "pid": 11780,
+    "index": 5
+  },
+  {
+    "name": "Require(3) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-security/config/config.default.js",
+    "start": 1576134883462,
+    "end": 1576134883463,
+    "duration": 1,
+    "pid": 11780,
+    "index": 6
+  },
+  {
+    "name": "Require(4) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1576134883463,
+    "end": 1576134883464,
+    "duration": 1,
+    "pid": 11780,
+    "index": 7
+  },
+  {
+    "name": "Require(5) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-onerror/config/config.default.js",
+    "start": 1576134883464,
+    "end": 1576134883465,
+    "duration": 1,
+    "pid": 11780,
+    "index": 8
+  },
+  {
+    "name": "Require(6) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-i18n/config/config.default.js",
+    "start": 1576134883466,
+    "end": 1576134883467,
+    "duration": 1,
+    "pid": 11780,
+    "index": 9
+  },
+  {
+    "name": "Require(7) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-watcher/config/config.default.js",
+    "start": 1576134883467,
+    "end": 1576134883468,
+    "duration": 1,
+    "pid": 11780,
+    "index": 10
+  },
+  {
+    "name": "Require(8) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-schedule/config/config.default.js",
+    "start": 1576134883468,
+    "end": 1576134883469,
+    "duration": 1,
+    "pid": 11780,
+    "index": 11
+  },
+  {
+    "name": "Require(9) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-multipart/config/config.default.js",
+    "start": 1576134883469,
+    "end": 1576134883470,
+    "duration": 1,
+    "pid": 11780,
+    "index": 12
+  },
+  {
+    "name": "Require(10) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-development/config/config.default.js",
+    "start": 1576134883470,
+    "end": 1576134883471,
+    "duration": 1,
+    "pid": 11780,
+    "index": 13
+  },
+  {
+    "name": "Require(11) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-logrotator/config/config.default.js",
+    "start": 1576134883471,
+    "end": 1576134883472,
+    "duration": 1,
+    "pid": 11780,
+    "index": 14
+  },
+  {
+    "name": "Require(12) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-static/config/config.default.js",
+    "start": 1576134883472,
+    "end": 1576134883473,
+    "duration": 1,
+    "pid": 11780,
+    "index": 15
+  },
+  {
+    "name": "Require(13) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-view/config/config.default.js",
+    "start": 1576134883473,
+    "end": 1576134883474,
+    "duration": 1,
+    "pid": 11780,
+    "index": 16
+  },
+  {
+    "name": "Require(14) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg/config/config.default.js",
+    "start": 1576134883475,
+    "end": 1576134883475,
+    "duration": 0,
+    "pid": 11780,
+    "index": 17
+  },
+  {
+    "name": "Require(15) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/midway-web/config/config.default.js",
+    "start": 1576134883477,
+    "end": 1576134883477,
+    "duration": 0,
+    "pid": 11780,
+    "index": 18
+  },
+  {
+    "name": "Require(16) config/config.default.ts",
+    "start": 1576134883478,
+    "end": 1576134883478,
+    "duration": 0,
+    "pid": 11780,
+    "index": 19
+  },
+  {
+    "name": "Require(17) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-security/config/config.local.js",
+    "start": 1576134883478,
+    "end": 1576134883478,
+    "duration": 0,
+    "pid": 11780,
+    "index": 20
+  },
+  {
+    "name": "Require(18) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-watcher/config/config.local.js",
+    "start": 1576134883478,
+    "end": 1576134883479,
+    "duration": 1,
+    "pid": 11780,
+    "index": 21
+  },
+  {
+    "name": "Require(19) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-view/config/config.local.js",
+    "start": 1576134883480,
+    "end": 1576134883480,
+    "duration": 0,
+    "pid": 11780,
+    "index": 22
+  },
+  {
+    "name": "Require(20) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg/config/config.local.js",
+    "start": 1576134883481,
+    "end": 1576134883481,
+    "duration": 0,
+    "pid": 11780,
+    "index": 23
+  },
+  {
+    "name": "Require(21) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/midway-web/config/config.local.js",
+    "start": 1576134883481,
+    "end": 1576134883481,
+    "duration": 0,
+    "pid": 11780,
+    "index": 24
+  },
+  {
+    "name": "Require(22) config/config.local.ts",
+    "start": 1576134883481,
+    "end": 1576134883481,
+    "duration": 0,
+    "pid": 11780,
+    "index": 25
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1576134883482,
+    "end": 1576134883520,
+    "duration": 38,
+    "pid": 11780,
+    "index": 26
+  },
+  {
+    "name": "Require(23) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-security/app/extend/agent.js",
+    "start": 1576134883483,
+    "end": 1576134883483,
+    "duration": 0,
+    "pid": 11780,
+    "index": 27
+  },
+  {
+    "name": "Require(24) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-schedule/app/extend/agent.js",
+    "start": 1576134883483,
+    "end": 1576134883517,
+    "duration": 34,
+    "pid": 11780,
+    "index": 28
+  },
+  {
+    "name": "Require(25) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-logrotator/app/extend/agent.js",
+    "start": 1576134883517,
+    "end": 1576134883519,
+    "duration": 2,
+    "pid": 11780,
+    "index": 29
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1576134883587,
+    "end": 1576134883638,
+    "duration": 51,
+    "pid": 11780,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-security/app/extend/context.js",
+    "start": 1576134883588,
+    "end": 1576134883599,
+    "duration": 11,
+    "pid": 11780,
+    "index": 31
+  },
+  {
+    "name": "Require(27) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1576134883599,
+    "end": 1576134883603,
+    "duration": 4,
+    "pid": 11780,
+    "index": 32
+  },
+  {
+    "name": "Require(28) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1576134883603,
+    "end": 1576134883604,
+    "duration": 1,
+    "pid": 11780,
+    "index": 33
+  },
+  {
+    "name": "Require(29) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1576134883604,
+    "end": 1576134883634,
+    "duration": 30,
+    "pid": 11780,
+    "index": 34
+  },
+  {
+    "name": "Require(30) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-view/app/extend/context.js",
+    "start": 1576134883634,
+    "end": 1576134883635,
+    "duration": 1,
+    "pid": 11780,
+    "index": 35
+  },
+  {
+    "name": "Require(31) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg/app/extend/context.js",
+    "start": 1576134883636,
+    "end": 1576134883636,
+    "duration": 0,
+    "pid": 11780,
+    "index": 36
+  },
+  {
+    "name": "Require(32) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/midway-web/app/extend/context.js",
+    "start": 1576134883636,
+    "end": 1576134883637,
+    "duration": 1,
+    "pid": 11780,
+    "index": 37
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1576134883638,
+    "end": 1576134883656,
+    "duration": 18,
+    "pid": 11780,
+    "index": 38
+  },
+  {
+    "name": "Require(33) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-security/agent.js",
+    "start": 1576134883638,
+    "end": 1576134883638,
+    "duration": 0,
+    "pid": 11780,
+    "index": 39
+  },
+  {
+    "name": "Require(34) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-onerror/agent.js",
+    "start": 1576134883638,
+    "end": 1576134883639,
+    "duration": 1,
+    "pid": 11780,
+    "index": 40
+  },
+  {
+    "name": "Require(35) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-watcher/agent.js",
+    "start": 1576134883639,
+    "end": 1576134883644,
+    "duration": 5,
+    "pid": 11780,
+    "index": 41
+  },
+  {
+    "name": "Require(36) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-schedule/agent.js",
+    "start": 1576134883644,
+    "end": 1576134883647,
+    "duration": 3,
+    "pid": 11780,
+    "index": 42
+  },
+  {
+    "name": "Require(37) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-development/agent.js",
+    "start": 1576134883647,
+    "end": 1576134883653,
+    "duration": 6,
+    "pid": 11780,
+    "index": 43
+  },
+  {
+    "name": "Require(38) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-logrotator/agent.js",
+    "start": 1576134883653,
+    "end": 1576134883654,
+    "duration": 1,
+    "pid": 11780,
+    "index": 44
+  },
+  {
+    "name": "Require(39) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/midway-schedule/agent.js",
+    "start": 1576134883654,
+    "end": 1576134883655,
+    "duration": 1,
+    "pid": 11780,
+    "index": 45
+  },
+  {
+    "name": "Require(40) /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg/agent.js",
+    "start": 1576134883655,
+    "end": 1576134883656,
+    "duration": 1,
+    "pid": 11780,
+    "index": 46
+  },
+  {
+    "name": "Before Start in /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-watcher/lib/init.js:15:14",
+    "start": 1576134883662,
+    "end": 1576134883723,
+    "duration": 61,
+    "pid": 11780,
+    "index": 47
+  },
+  {
+    "name": "Before Start in /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-schedule/agent.js:12:9",
+    "start": 1576134883662,
+    "end": 1576134883704,
+    "duration": 42,
+    "pid": 11780,
+    "index": 48
+  },
+  {
+    "name": "Before Start in /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/egg-development/agent.js:12:9",
+    "start": 1576134883663,
+    "end": 1576134883730,
+    "duration": 67,
+    "pid": 11780,
+    "index": 49
+  },
+  {
+    "name": "Before Start in /Users/paranoia/WebstormProjects/superstack/package/superstack-server/node_modules/midway-web/dist/loader/loader.js:41:18",
+    "start": 1576134883663,
+    "end": 1576134883721,
+    "duration": 58,
+    "pid": 11780,
+    "index": 50
+  }
+]
